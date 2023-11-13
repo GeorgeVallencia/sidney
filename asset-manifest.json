@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sidney%20/static/css/main.4901f067.css",
+    "main.js": "/sidney%20/static/js/main.f210ff23.js",
+    "static/media/Group 10.png": "/sidney%20/static/media/Group 10.0ec32ae5d2b6f497cb53.png",
+    "static/media/firstImage.png": "/sidney%20/static/media/firstImage.d78a4a0093bf223a65ae.png",
+    "static/media/Gapstack.png": "/sidney%20/static/media/Gapstack.82ee80b56e460b173289.png",
+    "static/media/Solgates.png": "/sidney%20/static/media/Solgates.a37e914be71a3af4ce8b.png",
+    "static/media/Satoshi-Bold.otf": "/sidney%20/static/media/Satoshi-Bold.b5dd7deee13e32689234.otf",
+    "static/media/Satoshi-Regular.otf": "/sidney%20/static/media/Satoshi-Regular.811ccb0b5af1892a71df.otf",
+    "static/media/Kidato.png": "/sidney%20/static/media/Kidato.4d072d4206b1b335b519.png",
+    "static/media/Frame.png": "/sidney%20/static/media/Frame.a8d450afa8f97b084a24.png",
+    "static/media/Group3.png": "/sidney%20/static/media/Group3.7a9da0c4d76389df8fd1.png",
+    "static/media/Group2.png": "/sidney%20/static/media/Group2.6048139b64ce7770ed4e.png",
+    "index.html": "/sidney%20/index.html",
+    "main.4901f067.css.map": "/sidney%20/static/css/main.4901f067.css.map",
+    "main.f210ff23.js.map": "/sidney%20/static/js/main.f210ff23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4901f067.css",
+    "static/js/main.f210ff23.js"
+  ]
+}
