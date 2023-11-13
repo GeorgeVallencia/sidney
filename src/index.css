@@ -1,13 +1,52 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.vertical-rule {
+    height: 13px;
+    border-left: 1px solid gray;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.vertical-rule-2 {
+    height: 13px;
+    border-left: 1px solid blue;
+}
+
+.text-underline {
+    text-decoration: underline;
+}
+
+@font-face {
+    font-family: satoshi;
+    src: url(./Satoshi/Fonts/OTF/Satoshi-Regular.otf);
+}
+
+.satoshi {
+    font-family: satoshi;
+}
+
+@font-face {
+    font-family: satoshi-bold;
+    src: url(./Satoshi/Fonts/OTF/Satoshi-Bold.otf);
+}
+
+.satoshi-bold {
+    font-family: satoshi-bold;
+}
+
+.three {
+    display: grid;
+    grid-template-columns: 285px 285px;
+    grid-template-rows: 285px 285px;
+    gap: 30px;
+    /* width: 585px;
+    height: 600px; */
+}
+
+.image-1 {
+    grid-column: 1 / 3;
+    grid-row: 1 / 2;
 }
